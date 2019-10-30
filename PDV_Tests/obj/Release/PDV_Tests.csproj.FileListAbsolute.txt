@@ -1,0 +1,17 @@
+C:\PDV_Tests\PDV_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\PDV_Tests.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\PDV_Tests.pdb
+C:\PDV_Tests\PDV_Tests\bin\Release\nunit.framework.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\WebDriver.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\Winium.Elements.Desktop.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\Winium.WebDriver.dll
+C:\PDV_Tests\PDV_Tests\bin\Release\nunit.framework.pdb
+C:\PDV_Tests\PDV_Tests\bin\Release\nunit.framework.xml
+C:\PDV_Tests\PDV_Tests\bin\Release\WebDriver.xml
+C:\PDV_Tests\PDV_Tests\obj\Release\PDV_Tests.csprojAssemblyReference.cache
+C:\PDV_Tests\PDV_Tests\obj\Release\PDV_Tests.csproj.CoreCompileInputs.cache
+C:\PDV_Tests\PDV_Tests\obj\Release\PDV_Tests.csproj.CopyComplete
+C:\PDV_Tests\PDV_Tests\obj\Release\PDV_Tests.dll
+C:\PDV_Tests\PDV_Tests\obj\Release\PDV_Tests.pdb
